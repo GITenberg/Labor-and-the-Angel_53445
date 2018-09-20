@@ -1,5 +1,8 @@
 _repo: Labor-and-the-Angel_53445
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53445-h/images/cover.jpg
 creator:
   author:
     agent_name: Scott, Duncan Campbell
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25498
     wikipedia: http://en.wikipedia.org/wiki/Duncan_Campbell_Scott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53445#Labor-and-the-Angel
 gutenberg_issued: '2016-11-03'
 gutenberg_type: Text
 identifiers:
